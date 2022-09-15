@@ -1,0 +1,60 @@
+a {
+    color: whitesmoke;
+    margin: 0;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    padding: 5%
+}
+
+h3 {
+    color: black;
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 300px;
+    max-height: 100%;
+    max-width: 100%;
+
+}
+
+@keyframes aparecer {
+    0% {
+        opacity: 0
+    }
+
+    100% {
+        opacity: 1
+    }
+}
+
+.animation {
+    animation-name: aparecer;
+    animation-iteration-count: 1;
+    animation-duration: 5s;
+}
+
+h1 {
+    animation-name: aparecer;
+    animation-iteration-count: 1;
+    animation-duration: 5s;
+}
+
+.linksubrayadoIndex {
+    text-decoration: underline;
+    text-decoration-color: black;
+}
+
+.parcelsImg {
+    width: 1050px;
+    height: auto;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    animation-name: aparecer;
+    animation-iteration-count: 1;
+    animation-duration: 5s;
+}
