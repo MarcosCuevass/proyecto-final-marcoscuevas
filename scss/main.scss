@@ -23,6 +23,10 @@ h3 {
     padding: 3%;
 }
 
+p {
+    @extend .texto;
+}
+
 .imgMerch {
     height: auto;
     width: 100%;
@@ -30,9 +34,7 @@ h3 {
     max-width: 100%;
 }
 
-p {
-    text-align: center
-}
+
 
 img {
     height: auto;
