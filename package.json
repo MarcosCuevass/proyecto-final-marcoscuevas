@@ -1,7 +1,7 @@
 {
   "name": "sass2-seo-marcoscuevas",
   "version": "1.0.0",
-  "description": "",
+  "description": "Pagina Web de Parcels, banda de neopop australiana",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

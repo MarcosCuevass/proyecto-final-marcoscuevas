@@ -1,25 +1,46 @@
-
 a {
     color: whitesmoke;
     margin: 0;
 }
 
-h1 {
-    color: black;
+.texto {
     text-align: center;
-    padding: 5%
+    padding: 5%;
+}
+
+h1 {
+    @extend .texto;
+    padding: 5%;
+}
+
+h2 {
+    @extend .texto;
+    padding: 3%;
 }
 
 h3 {
-    color: black;
+    @extend .texto;
+    padding: 3%;
+}
+
+.imgMerch {
+    width: 300px;
+    height: auto;
+}
+
+.mainStore {
+    text-align: center;
+}
+
+.vidContainer {
     text-align: center;
 }
 
 p {
-    text-align:center
+    text-align: center
 }
 
-img {
+.img {
     height: auto;
     width: 300px;
     max-height: 100%;

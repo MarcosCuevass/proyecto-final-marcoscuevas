@@ -30,16 +30,33 @@ a {
   color: whitesmoke;
   margin: 0; }
 
-h1 {
-  color: black;
+.texto, h1, h2, h3 {
   text-align: center;
   padding: 5%; }
 
+h1 {
+  padding: 5%; }
+
+h2 {
+  padding: 3%; }
+
 h3 {
-  color: black;
+  padding: 3%; }
+
+.imgMerch {
+  width: 300px;
+  height: auto; }
+
+.mainStore {
   text-align: center; }
 
-img {
+.vidContainer {
+  text-align: center; }
+
+p {
+  text-align: center; }
+
+.img {
   height: auto;
   width: 300px;
   max-height: 100%;
