@@ -49,6 +49,9 @@ h3 {
   max-height: 100%;
   max-width: 100%; }
 
+#formulario {
+  text-align: center; }
+
 img {
   height: auto;
   width: 300px;
