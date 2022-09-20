@@ -8,8 +8,49 @@
   --bs-gutter-x: 0 !important;
   --bs-gutter-y: 0 !important; }
 
+.navbar-light .navbar-brand {
+  color: khaki;
+  background-color: black;
+  margin: 0%;
+  padding: 1%;
+  font-size: 1.7rem; }
+
+.navbar-light .navbar-nav .nav-link {
+  color: khaki;
+  background-color: black;
+  margin: 0%; }
+
+.navbar-nav .dropdown-menu {
+  position: absolute;
+  min-width: 140px;
+  max-width: 300px; }
+
+.navbar {
+  width: 80%;
+  margin: auto;
+  padding: 35px 0%;
+  display: flex;
+  align-items: space-between;
+  color: red; }
+
+.nav-link {
+  color: khaki;
+  background-color: black;
+  margin: 0%;
+  padding: 1%; }
+
+nav ul li {
+  list-style-type: none;
+  display: inline-block;
+  margin: 0 20px; }
+
+nav ul li a {
+  text-decoration: solid;
+  color: red;
+  font-size: 1.7rem; }
+
 .ytlinkIndex {
-  color: whitesmoke;
+  color: rgba(245, 245, 245, 0.998);
   box-sizing: content-box;
   background-color: #2f2f2f;
   text-align: center; }
