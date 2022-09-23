@@ -13,12 +13,15 @@
   background-color: black;
   margin: 0%;
   padding: 1%;
-  font-size: 1.7rem; }
+  font-size: 1.7rem;
+  border-radius: 3px; }
 
 .navbar-light .navbar-nav .nav-link {
   color: khaki;
   background-color: black;
-  margin: 0%; }
+  margin: 0%;
+  font-size: 1.7rem;
+  border-radius: 3px; }
 
 .navbar-nav .dropdown-menu {
   position: absolute;
@@ -50,13 +53,13 @@ nav ul li a {
   font-size: 1.7rem; }
 
 .ytlinkIndex {
-  color: rgba(245, 245, 245, 0.998);
+  color: khaki;
   box-sizing: content-box;
-  background-color: #2f2f2f;
+  background-color: black;
   text-align: center; }
 
 footer {
-  background-color: #2f2f2f;
+  background-color: black;
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -65,10 +68,10 @@ footer {
   width: 100%;
   align-content: flex-start;
   padding: 50px 100px 100px 50px;
-  border: solid 3px #2f2f2f; }
+  border: solid 3px whitesmoke; }
 
 a {
-  color: whitesmoke;
+  color: khaki;
   margin: 0; }
 
 .texto, h1, h2, h3, p {

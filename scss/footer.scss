@@ -1,13 +1,13 @@
 .ytlinkIndex {
-    color: rgba(245, 245, 245, 0.998);
+    color: khaki;
     box-sizing: content-box;
-    background-color: rgb(47, 47, 47);
+    background-color: black;
     text-align: center;
 
 }
 
 footer {
-    background-color: rgb(47, 47, 47);
+    background-color: black;
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -16,5 +16,5 @@ footer {
     width: 100%;
     align-content: flex-start;
     padding: 50px 100px 100px 50px;
-    border: solid 3px rgb(47, 47, 47);
+    border: solid 3px whitesmoke;
 }
