@@ -85,13 +85,20 @@ h1 {
   padding: 5%; }
 
 h2 {
-  padding: 3%; }
+  padding: 5%;
+  color: khaki;
+  background-color: black; }
 
 h3 {
-  padding: 3%; }
+  padding: 5%;
+  color: khaki;
+  background-color: black; }
 
 p {
-  padding: 3%; }
+  padding: 3%;
+  color: khaki;
+  background-color: black;
+  font-size: 1.3rem; }
 
 .imgMerch {
   height: auto;
