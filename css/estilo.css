@@ -2,7 +2,8 @@
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
 
 .bgColor {
-  background: linear-gradient(to right, khaki, grey); }
+  background: linear-gradient(to right, khaki, grey);
+  padding: 25px; }
 
 .row {
   --bs-gutter-x: 0 !important;
@@ -68,11 +69,13 @@ footer {
   width: 100%;
   align-content: flex-start;
   padding: 50px 100px 100px 50px;
-  border: solid 3px whitesmoke; }
+  border: solid 3px black; }
 
 a {
   color: khaki;
-  margin: 0; }
+  margin: 0;
+  line-height: 50px;
+  flex-direction: column; }
 
 .texto, h1, h2, h3, p {
   text-align: center;
