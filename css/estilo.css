@@ -107,8 +107,9 @@ p {
   max-width: 100%; }
 
 #formulario {
-  text-align: center;
-  padding: 3%; }
+  text-align: end;
+  padding: 3%;
+  color: black; }
 
 img {
   height: auto;
