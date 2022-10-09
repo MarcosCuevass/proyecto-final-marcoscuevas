@@ -1,5 +1,5 @@
 {
-  "name": "sass2-seo-marcoscuevas",
+  "name": "proyecto-final-marcoscuevas",
   "version": "1.0.0",
   "description": "Pagina Web de Parcels, banda de neopop australiana",
   "main": "index.js",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MarcosCuevass/sass-seo-marcoscuevas.git"
+    "url": "git+https://github.com/MarcosCuevass/proyecto-final-marcoscuevas"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MarcosCuevass/sass-seo-marcoscuevas/issues"
+    "url": "https://github.com/MarcosCuevass/proyecto-final-marcoscuevas/issues"
   },
-  "homepage": "https://github.com/MarcosCuevass/sass-seo-marcoscuevas#readme",
+  "homepage": "https://github.com/MarcosCuevass/proyecto-final-marcoscuevas#readme",
   "devDependencies": {
     "node-sass": "^7.0.3",
     "nodemon": "^2.0.20"
